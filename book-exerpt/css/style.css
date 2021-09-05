@@ -1,0 +1,87 @@
+/* my first CSS*/
+
+body {
+  font-family: Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  background-color: #bfd8b8;
+  font-size: 1.2rem;
+}
+.halfBackground {
+  background: no-repeat url(../images/3bItaEF\ -\ Imgur.jpg);
+  background-size: 100%;
+  background-position: 50% 50%;
+  border: 10px solid white;
+  height: 200%;
+  width: 200%;
+}
+
+.halfBackground2 {
+  background: no-repeat url(../images/c1A6o2g\ -\ Imgur.jpg);
+  background-size: 100%;
+  background-position: 50% 50%;
+  border: 10px solid white;
+  height: 200%;
+  width: 200%;
+}
+
+.halfBackground3 {
+  background: no-repeat url(../images/H2myamp\ -\ Imgur.jpg);
+  background-size: 100%;
+  background-position: 50% 50%;
+  border: 10px solid white;
+  height: 200%;
+  width: 200%;
+}
+
+h1 {
+  border: 5px solid white;
+  background-color: #bfd8b8;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 3rem;
+  text-align: center;
+  text-shadow: 4px 4px 5px black;
+  color: white;
+}
+blockquote {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 3rem;
+  font-style: italic;
+  text-align: center;
+  text-shadow: 4px 4px 5px black;
+  color: white;
+}
+cite {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+.bigbold {
+  font-weight: bold;
+  font-size: 1.3rem;
+}
+h2 {
+  font-family: Helvetica;
+}
+
+ul a:link {
+  font-weight: bold;
+  text-decoration: none;
+  color: brown;
+  font-size: 2rem;
+}
+a:visited {
+  color: green;
+  font-size: 2rem;
+  font-weight: normal;
+}
+a:hover {
+  color: greenyellow;
+  text-decoration: underline;
+  background-color: black;
+}
+a.harvard:link {
+  color: maroon;
+}
+
+.footer-img {
+  border: 5px solid white;
+  margin: 3%;
+}
